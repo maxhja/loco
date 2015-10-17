@@ -7,10 +7,10 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="src" path="/appcompat_v7"/>
 	<classpathentry kind="lib" path="C:/Users/Marre/.ivy2/cache/org.mortbay.jetty/jetty/jars/jetty-6.1.11.jar" sourcepath="C:/Users/Marre/.ivy2/cache/org.mortbay.jetty/jetty/sources/jetty-6.1.11-sources.jar"/>
-	<classpathentry kind="lib" path="JARE/facebook-android-sdk-4.4.0-sources.jar"/>
-	<classpathentry kind="lib" path="JARE/httpclient-4.3.3.jar"/>
-	<classpathentry kind="lib" path="JARE/facebook.jar"/>
-	<classpathentry kind="lib" path="/Users/jono/Documents/workspace/LOCO/JARE/android.jar"/>
-	<classpathentry kind="lib" path="/Users/jono/Documents/workspace/LOCO/JARE/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marre/workspace/Loco/JARE/facebook-android-sdk-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marre/workspace/Loco/JARE/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marre/workspace/Loco/JARE/facebook.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marre/workspace/Loco/JARE/android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marre/workspace/Loco/JARE/android-support-v4.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
