@@ -84,6 +84,8 @@ public class MainActivity extends FragmentActivity {
 				// Intent i = new Intent(getApplicationContext(),
 				// TabsActivity.class);
 				// startActivity(i);
+				
+				// test commit
 
 				Log.d("FacebookSampleActivity", "Facebook session opened");
 			} else if (state.isClosed()) {
