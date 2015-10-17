@@ -5,17 +5,12 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry kind="lib" path="C:/Users/Marre/Documents/adt-bundle-windows-x86_64-20131030/sdk/platforms/android-19/android.jar">
-		<attributes>
-			<attribute name="javadoc_location" value="http://developer.android.com/reference/"/>
-		</attributes>
-		<accessrules>
-			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
-		</accessrules>
-	</classpathentry>
 	<classpathentry kind="src" path="/appcompat_v7"/>
 	<classpathentry kind="lib" path="C:/Users/Marre/.ivy2/cache/org.mortbay.jetty/jetty/jars/jetty-6.1.11.jar" sourcepath="C:/Users/Marre/.ivy2/cache/org.mortbay.jetty/jetty/sources/jetty-6.1.11-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Marre/workspace/Loco/JARE/facebook-android-sdk-4.4.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Marre/workspace/Loco/JARE/facebook.jar"/>
+	<classpathentry kind="lib" path="JARE/facebook-android-sdk-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="JARE/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="JARE/facebook.jar"/>
+	<classpathentry kind="lib" path="/Users/jono/Documents/workspace/LOCO/JARE/android.jar"/>
+	<classpathentry kind="lib" path="/Users/jono/Documents/workspace/LOCO/JARE/android-support-v4.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
